@@ -6,7 +6,7 @@
     2.Keras,Tensorflow
     3.OpenCV
 # Introduction #
-	1.train:
+	1.data:
         Subfolders containing two types of samples, which are 0("cat") and 1("dog") subfolders, respectively.
 	2.weights:
         Save the resulting model weights in this folder.
